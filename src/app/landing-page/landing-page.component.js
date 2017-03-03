@@ -8,6 +8,7 @@ var __decorate = (this && this.__decorate) || function (decorators, target, key,
 var core_1 = require('@angular/core');
 var LandingPageComponent = (function () {
     function LandingPageComponent() {
+        this.title = 'Isabelle Feichas';
     }
     LandingPageComponent.prototype.ngOnInit = function () {
     };

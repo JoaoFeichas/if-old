@@ -8,6 +8,7 @@ var __decorate = (this && this.__decorate) || function (decorators, target, key,
 var core_1 = require('@angular/core');
 var AboutComponent = (function () {
     function AboutComponent() {
+        this.title = 'Isabelle Feichas';
     }
     AboutComponent.prototype.ngOnInit = function () {
     };
